@@ -6,6 +6,9 @@ scraping the results, and writing the product data found in
 a JSON file. The script will run automatically and collect all
 of the search results, regardless of the number of pages.
 
+Sample amazon_search_data.json file is included from the latest
+time I ran the script to demonstrate what the output looks like.
+
 To run this program:
 
     - Open your terminal, and cd to project directory
