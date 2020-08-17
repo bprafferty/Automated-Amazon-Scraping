@@ -1,4 +1,4 @@
-Amazon Search Automation
+Automated Amazon Scraping
 
 This program automates the data mining process of connecting 
 to amazon.com, searching for a product entered by the user,
