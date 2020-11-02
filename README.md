@@ -1,6 +1,6 @@
 Automated Amazon Scraping
 
-This program automates the data mining process of connecting 
+This program automates the web scraping process of connecting 
 to amazon.com, searching for a product entered by the user,
 scraping the results, and writing the product data found in
 a JSON file. The script will run automatically and collect all
